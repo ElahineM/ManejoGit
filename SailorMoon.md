@@ -19,12 +19,12 @@ Tanto el manga como el anime se encuentra serialazados, es decir, se dividen en 
 - Sailor Moon SuperS
 - Sailor Moon Sailor Stars
 
-**OJO:** *Esta lista es basandome en el anime emitido entre 1992 y 1997.*
+:eyes: *Esta lista es basandome en el anime emitido entre 1992 y 1997.*
 
 ### Cuántas versiones del anime hay?
 Está la clasica, la que todo milenial conoce y fue emitida en latinoamerica, que fue emeitada entre 1992 y 1997. Luego está el remake del anime *Sailor Moon Crystal* para esta generación, que emitida entre 2014 y 2016.
 
-**READTHIS:** *Tambien hay películas recopilatorias, OVAs (capítulos extra) y películas canon (que siguen la historia) de ambas versiones*
+:point_right: *Tambien hay películas recopilatorias, OVAs (capítulos extra) y películas canon (que siguen la historia) de ambas versiones* :point_left:
 
 ### Cuántas Sailors hay?
 En total (basandonos en las de la línea temporal del presente), son 8:
@@ -43,7 +43,7 @@ En total (basandonos en las de la línea temporal del presente), son 8:
   - Sailor Uranus
   - Sailor Pluto
 
->*Sailor Moon es la protagonista y Sailor Chibi Moon es su hija (linea del futuro), las Sailors Sacout luchan para protegerlas a ellas y al reino que gobiernan.*
+> :woman: :baby: *Sailor Moon es la protagonista y Sailor Chibi Moon es su hija (linea del futuro), las Sailors Sacout luchan para protegerlas a ellas y al reino que gobiernan.*
 
 ## Otros
 Para saber más sobre Sailor Moon, personajes e historia, visita las wikis de [Sailor Moon Wiki](https://sailormoon.fandom.com/es/wiki/Sailor_Moon_Wiki) y [Wikipedia](https://es.wikipedia.org/wiki/Sailor_Moon), así como el amino de [Sailor Moon Español](https://aminoapps.com/c/sailor-moon-espanol/info/)
